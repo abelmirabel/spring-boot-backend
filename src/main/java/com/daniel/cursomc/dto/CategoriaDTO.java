@@ -1,11 +1,10 @@
 package com.daniel.cursomc.dto;
 
-import java.io.Serializable;
-
 import com.daniel.cursomc.domain.Categoria;
 
-public class CategoriaDTO implements Serializable {
-private static final long serialVersionUID = 1L;
+public class CategoriaDTO{
+	@SuppressWarnings("unused")
+	private static final long serialVersionUID = 1L;
 	
 	private Integer id;
 	private String nome;
