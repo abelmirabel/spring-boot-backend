@@ -1,0 +1,8 @@
+Spring Boot Ionic
+
+Aula 2 - 10 
+	Ensina a criar um projeto novo no git
+
+Aula 2 - 11
+	Pacote resources - devem ficar todos os controladores rest 
+	
